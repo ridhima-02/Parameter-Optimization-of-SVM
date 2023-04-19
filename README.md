@@ -5,7 +5,7 @@ Dataset Used : [Abalone](https://archive.ics.uci.edu/ml/datasets/abalone)
 
 |                      |      | 
 |----------------------|------|
-| Number of Instances  | 4177 |   
+| Number of Instances  | 5177 |   
 | Number of Attributes | 8    |   
 
 #### Dataset Description :
